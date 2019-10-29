@@ -1,2 +1,0 @@
-# NBASeasonExplorer
-Created with CodeSandbox
